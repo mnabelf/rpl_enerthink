@@ -1,3 +1,38 @@
-# rpl_enerthink
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
 
-![text](readme) ![text](readme/Screenshot_20260121-132245.jpg.jpeg) ![text](readme/Screenshot_20260121-132258.jpg.jpeg) ![text](readme/Screenshot_20260121-132301.jpg.jpeg) ![text](readme/Screenshot_20260121-132312.jpg.jpeg) ![text](readme/Screenshot_20260121-132319.jpg.jpeg) ![text](readme/Screenshot_20260121-132322.jpg.jpeg) ![text](readme/Screenshot_20260121-132327.jpg.jpeg) ![text](readme/Screenshot_20260121-132330.jpg.jpeg) ![text](readme/Screenshot_20260121-132335.jpg.jpeg) ![text](readme/Screenshot_20260121-132339.jpg.jpeg) ![text](readme/Screenshot_20260121-132342.jpg.jpeg) ![text](readme/Screenshot_20260121-132351.jpg.jpeg) ![text](readme/Screenshot_20260121-132353.jpg.jpeg) ![text](readme/Screenshot_20260121-132357.jpg.jpeg) ![text](readme/Screenshot_20260121-132400.jpg.jpeg) ![text](readme/Screenshot_20260121-132404.jpg.jpeg) ![text](readme/Screenshot_20260121-132413.jpg.jpeg) ![text](readme/Screenshot_20260121-132434.jpg.jpeg) ![text](readme/Screenshot_20260121-132436.jpg.jpeg) ![text](readme/Screenshot_20260121-132446.jpg.jpeg) ![text](readme/Screenshot_20260121-132451.jpg.jpeg) ![text](readme/Screenshot_20260121-132455.jpg.jpeg) ![text](readme/Screenshot_20260121-132510.jpg.jpeg)
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="rpl_enerthink">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>rpl_enerthink</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
